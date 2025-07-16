@@ -26,7 +26,7 @@ develop a modern data warehouse using SQL server to consolidate sales data, enab
 Develop SQL-based analytics to deliver insights into:
 -**Customer Behavior**
 -**Product Performance**
---**Sales Trends**
+-**Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
